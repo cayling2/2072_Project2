@@ -2211,3 +2211,5 @@ pData(snpAnnot)$hwe[pData(snpAnnot)$snpID == hwe$snpID] <- hwe$pval
 varMetadata(snpAnnot)["hwe", "labelDescription"] <-
   "Updated the p-values from the HWE test"
 ```
+
+Me, Vanessa Hong, and Ceceilagh Pitstick briefly went over our answers after completing the project.
